@@ -1,2 +1,2 @@
 # prototypesSeguro
-buscador de seguro con portotypes, HTML CSS JAVASCRIPT
+buscador de seguro con portotypes, HTML CSS JAVASCRIPT mas tailwind
